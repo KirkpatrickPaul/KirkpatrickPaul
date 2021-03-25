@@ -1,20 +1,8 @@
-![Paul Kirkparick Banner](/Banner.png){:class="img-responsive"}
-
-### Hi there 👋
-
+![Paul Kirkparick Banner](/Assets/Banner.png)
 
 ## Technologies
-HTML
-CSS
-Javascript
-jQuery
-React.js
-Node.js
-React.js
-MySQL
-Sequelize
-MongoDB
-Mogoose
+![Javascript](/Assets/Javascript.png) ![jQuery](/Assets/jQuery.png) ![React](/Assets/React.png) ![Node](/Assets/Node.png)  ![MySQL](/Assets/MySQL.png)  ![HTML5](/Assets/HTML5.png) ![CSS3](/Assets/CSS3.png) ![MongoDB](/Assets/MongoDB.png)
+
 
 <!--
 **KirkpatrickPaul/KirkpatrickPaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
