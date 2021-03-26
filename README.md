@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Paul Kirkpatrick.
 
-I'm a Full stack developer that isn't sure whether he likes front-end or back-end development more. I live and work in the Wichita area in Kansas, and I recently finished an extensive Full Stack Development Boot Camp. Currently, I'm exploring new opportunities and ideas.
+I'm a Full stack developer that isn't sure whether he likes front-end or back-end development more. I live and work in the Wichita area in Kansas, and I recently finished an extensive Full Stack Development Boot Camp with the University of Kansas. Currently, I'm exploring new opportunities and ideas.
 
 # Technologies
 
