@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Paul Kirkpatrick.
 
-I'm a Full stack developer that loves seeing webpages come to life in the front-end, and loves the precision and rigor of the back-end. I live and work in the Wichita area in Kansas, and I recently finished an extensive Full Stack Development Boot Camp with the University of Kansas. Currently, I'm exploring new opportunities and ideas.
+I'm a Full stack developer that loves seeing webpages come to life in the front-end, but also loves the precision and rigor of the back-end. I live and work in the Wichita area in Kansas, and I recently finished an extensive Full Stack Development Boot Camp with the University of Kansas. Currently, I'm exploring new opportunities and ideas.
 
 # Technologies
 
