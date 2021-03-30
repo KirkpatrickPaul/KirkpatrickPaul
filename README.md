@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Paul Kirkpatrick.
 
-I'm a Full stack developer that isn't sure whether he likes front-end or back-end development more. I live and work in the Wichita area in Kansas, and I recently finished an extensive Full Stack Development Boot Camp with the University of Kansas. Currently, I'm exploring new opportunities and ideas.
+I'm a Full stack developer that loves seeing webpages come to life in the front-end, and loves the precision and rigor of the back-end. I live and work in the Wichita area in Kansas, and I recently finished an extensive Full Stack Development Boot Camp with the University of Kansas. Currently, I'm exploring new opportunities and ideas.
 
 # Technologies
 
@@ -12,7 +12,7 @@ I'm a Full stack developer that isn't sure whether he likes front-end or back-en
 
 # Current Projects
 
-My brother's plumbing business paid someone $50 almost ten years ago to build them a website on Wordpress. It looks...like someone paid a guy $50 to build them a website ten years ago, honeslty. Right now, we're going over the design and user experience for a new one. I think it's about time.
+My brother's plumbing business paid someone $50 almost ten years ago to build them a website on Wordpress. It looks...like someone paid a guy $50 to build them a website ten years ago, honestly. Right now, we're going over the design and user experience for a new one. I think it's about time.
 
 # Other Work
 
