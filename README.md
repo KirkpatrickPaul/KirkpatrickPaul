@@ -18,4 +18,4 @@ My brother's plumbing business paid someone $50 almost ten years ago to build th
 
 # Other Work
 
-If you would like to see more of my work, feel free to see my pinned projects below or visit [my portfolio](https://kirkpatrickpaul.github.io/portfolio).
+If you would like to see more of my work, feel free to see my pinned projects below or visit [my portfolio](https://kirkpatrickpaul.github.io/#portfolio/).
