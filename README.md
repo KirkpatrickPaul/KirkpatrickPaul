@@ -6,9 +6,11 @@ I'm a Full stack developer that loves seeing webpages come to life in the front-
 
 # Technologies
 
-![Javascript](/Assets/Javascript.png) ![jQuery](/Assets/jQuery.png) ![React](/Assets/React.png) ![Node](/Assets/Node.png)  ![HTML5](/Assets/HTML5.png) ![CSS3](/Assets/CSS3.png)
+![CoffeeScript](/Assets/CoffeeScript.png) ![jQuery](/Assets/jQuery.png) ![React](/Assets/React.png) ![Vue](/Assets/Vue.png) ![Node](/Assets/Node.png) ![Nest](/Assets/Nest.png) ![Flutter](/Assets/Flutter.png)
 
-![MySQL](/Assets/MySQL.png)  ![MongoDB](/Assets/MongoDB.png)
+# Languages
+
+![Javascript](/Assets/Javascript.png) ![MySQL](/Assets/MySQL.png)  ![MongoDB](/Assets/MongoDB.png) ![Dart](/Assets/Dart.png)
 
 # Current Projects
 
